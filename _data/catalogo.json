@@ -90,18 +90,24 @@
       "nome": "ClipForge",
       "categoria": "video-editing",
       "prezzo_centesimi": 2999,
-      "descrizione": "Editor video a timeline per montaggi rapidi. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Editor video a timeline per montaggi rapidi. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Editor video a timeline per montaggi rapidi.",
+      "descrizione_completa": "Editor video a timeline per montaggi rapidi.",
       "immagine": "",
       "icona": "🎬",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ClipForge",
-          "descrizione": "Timeline video editor for fast edits. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Timeline video editor for fast edits. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Timeline video editor for fast edits.",
+          "descrizione_completa": "Timeline video editor for fast edits."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -110,18 +116,24 @@
       "nome": "ReelMaker",
       "categoria": "video-editing",
       "prezzo_centesimi": 1999,
-      "descrizione": "Crea reel e short verticali con template pronti. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Crea reel e short verticali con template pronti. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Crea reel e short verticali con template pronti.",
+      "descrizione_completa": "Crea reel e short verticali con template pronti.",
       "immagine": "",
       "icona": "🎬",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ReelMaker",
-          "descrizione": "Make vertical reels and shorts from ready templates. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Make vertical reels and shorts from ready templates. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Make vertical reels and shorts from ready templates.",
+          "descrizione_completa": "Make vertical reels and shorts from ready templates."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -130,18 +142,24 @@
       "nome": "PixelPro",
       "categoria": "foto-grafica",
       "prezzo_centesimi": 2499,
-      "descrizione": "Ritocco foto e livelli, stile professionale. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Ritocco foto e livelli, stile professionale. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Ritocco foto e livelli, stile professionale.",
+      "descrizione_completa": "Ritocco foto e livelli, stile professionale.",
       "immagine": "",
       "icona": "🖼️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PixelPro",
-          "descrizione": "Photo retouching and layers, pro style. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Photo retouching and layers, pro style. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Photo retouching and layers, pro style.",
+          "descrizione_completa": "Photo retouching and layers, pro style."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -150,18 +168,24 @@
       "nome": "Vectorly",
       "categoria": "foto-grafica",
       "prezzo_centesimi": 1999,
-      "descrizione": "Disegno vettoriale per loghi e illustrazioni. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Disegno vettoriale per loghi e illustrazioni. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Disegno vettoriale per loghi e illustrazioni.",
+      "descrizione_completa": "Disegno vettoriale per loghi e illustrazioni.",
       "immagine": "",
       "icona": "🖼️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "Vectorly",
-          "descrizione": "Vector drawing for logos and illustrations. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Vector drawing for logos and illustrations. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Vector drawing for logos and illustrations.",
+          "descrizione_completa": "Vector drawing for logos and illustrations."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -170,18 +194,25 @@
       "nome": "NotaMind",
       "categoria": "ai-produttivita",
       "prezzo_centesimi": 999,
-      "descrizione": "Appunti con assistente AI e ricerca smart. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Appunti con assistente AI e ricerca smart. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Appunti con assistente AI e ricerca smart.",
+      "descrizione_completa": "Appunti con assistente AI e ricerca smart.",
       "immagine": "",
       "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "NotaMind",
-          "descrizione": "Notes with AI assistant and smart search. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Notes with AI assistant and smart search. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Notes with AI assistant and smart search.",
+          "descrizione_completa": "Notes with AI assistant and smart search."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     },
     {
       "tipo": "digitale",
@@ -190,18 +221,25 @@
       "nome": "TaskFlow",
       "categoria": "ai-produttivita",
       "prezzo_centesimi": 1299,
-      "descrizione": "Gestione attività e progetti per team piccoli. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Gestione attività e progetti per team piccoli. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Gestione attività e progetti per team piccoli.",
+      "descrizione_completa": "Gestione attività e progetti per team piccoli.",
       "immagine": "",
       "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "TaskFlow",
-          "descrizione": "Task and project management for small teams. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Task and project management for small teams. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Task and project management for small teams.",
+          "descrizione_completa": "Task and project management for small teams."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     },
     {
       "tipo": "digitale",
@@ -210,18 +248,25 @@
       "nome": "ShieldVPN",
       "categoria": "vpn-sicurezza",
       "prezzo_centesimi": 599,
-      "descrizione": "VPN veloce con server in tutto il mondo. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "VPN veloce con server in tutto il mondo. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "VPN veloce con server in tutto il mondo.",
+      "descrizione_completa": "VPN veloce con server in tutto il mondo.",
       "immagine": "",
       "icona": "🛡️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ShieldVPN",
-          "descrizione": "Fast VPN with servers worldwide. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Fast VPN with servers worldwide. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Fast VPN with servers worldwide.",
+          "descrizione_completa": "Fast VPN with servers worldwide."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     },
     {
       "tipo": "digitale",
@@ -230,18 +275,25 @@
       "nome": "PassVault",
       "categoria": "vpn-sicurezza",
       "prezzo_centesimi": 399,
-      "descrizione": "Gestore di password cifrato. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Gestore di password cifrato. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Gestore di password cifrato.",
+      "descrizione_completa": "Gestore di password cifrato.",
       "immagine": "",
       "icona": "🛡️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PassVault",
-          "descrizione": "Encrypted password manager. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Encrypted password manager. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Encrypted password manager.",
+          "descrizione_completa": "Encrypted password manager."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     },
     {
       "tipo": "digitale",
@@ -250,18 +302,24 @@
       "nome": "StreamCast",
       "categoria": "gaming-streaming",
       "prezzo_centesimi": 1499,
-      "descrizione": "Trasmetti il gioco in diretta con overlay. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Trasmetti il gioco in diretta con overlay. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Trasmetti il gioco in diretta con overlay.",
+      "descrizione_completa": "Trasmetti il gioco in diretta con overlay.",
       "immagine": "",
       "icona": "🎮",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "StreamCast",
-          "descrizione": "Stream your game live with overlays. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Stream your game live with overlays. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Stream your game live with overlays.",
+          "descrizione_completa": "Stream your game live with overlays."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -270,18 +328,22 @@
       "nome": "GameBooster",
       "categoria": "gaming-streaming",
       "prezzo_centesimi": 799,
-      "descrizione": "Ottimizza il PC per giocare meglio. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Ottimizza il PC per giocare meglio. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Ottimizza il PC per giocare meglio.",
+      "descrizione_completa": "Ottimizza il PC per giocare meglio.",
       "immagine": "",
       "icona": "🎮",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "GameBooster",
-          "descrizione": "Tune your PC for better gaming. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Tune your PC for better gaming. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Tune your PC for better gaming.",
+          "descrizione_completa": "Tune your PC for better gaming."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -290,18 +352,24 @@
       "nome": "WaveStudio",
       "categoria": "audio-musica",
       "prezzo_centesimi": 1999,
-      "descrizione": "Registra e monta audio e podcast. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Registra e monta audio e podcast. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Registra e monta audio e podcast.",
+      "descrizione_completa": "Registra e monta audio e podcast.",
       "immagine": "",
       "icona": "🎧",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "WaveStudio",
-          "descrizione": "Record and edit audio and podcasts. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Record and edit audio and podcasts. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Record and edit audio and podcasts.",
+          "descrizione_completa": "Record and edit audio and podcasts."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -310,18 +378,24 @@
       "nome": "BeatPad",
       "categoria": "audio-musica",
       "prezzo_centesimi": 1499,
-      "descrizione": "Crea basi musicali con pad e campioni. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Crea basi musicali con pad e campioni. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Crea basi musicali con pad e campioni.",
+      "descrizione_completa": "Crea basi musicali con pad e campioni.",
       "immagine": "",
       "icona": "🎧",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "BeatPad",
-          "descrizione": "Make beats with pads and samples. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Make beats with pads and samples. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Make beats with pads and samples.",
+          "descrizione_completa": "Make beats with pads and samples."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -330,18 +404,24 @@
       "nome": "PDFMaster",
       "categoria": "utility-pdf",
       "prezzo_centesimi": 1299,
-      "descrizione": "Modifica, unisci e firma PDF. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Modifica, unisci e firma PDF. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Modifica, unisci e firma PDF.",
+      "descrizione_completa": "Modifica, unisci e firma PDF.",
       "immagine": "",
       "icona": "🧰",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PDFMaster",
-          "descrizione": "Edit, merge and sign PDFs. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Edit, merge and sign PDFs. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Edit, merge and sign PDFs.",
+          "descrizione_completa": "Edit, merge and sign PDFs."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
     },
     {
       "tipo": "digitale",
@@ -350,18 +430,23 @@
       "nome": "CleanDisk",
       "categoria": "utility-pdf",
       "prezzo_centesimi": 699,
-      "descrizione": "Libera spazio e pulisce i file inutili. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Libera spazio e pulisce i file inutili. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Libera spazio e pulisce i file inutili.",
+      "descrizione_completa": "Libera spazio e pulisce i file inutili.",
       "immagine": "",
       "icona": "🧰",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "CleanDisk",
-          "descrizione": "Free up space and clean junk files. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Free up space and clean junk files. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Free up space and clean junk files.",
+          "descrizione_completa": "Free up space and clean junk files."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
     },
     {
       "tipo": "digitale",
@@ -370,18 +455,25 @@
       "nome": "SafeSync",
       "categoria": "backup-cloud",
       "prezzo_centesimi": 899,
-      "descrizione": "Backup automatico e sincronizzazione file. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Backup automatico e sincronizzazione file. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Backup automatico e sincronizzazione file.",
+      "descrizione_completa": "Backup automatico e sincronizzazione file.",
       "immagine": "",
       "icona": "☁️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "SafeSync",
-          "descrizione": "Automatic backup and file sync. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Automatic backup and file sync. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Automatic backup and file sync.",
+          "descrizione_completa": "Automatic backup and file sync."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     },
     {
       "tipo": "digitale",
@@ -390,18 +482,25 @@
       "nome": "CloudBox",
       "categoria": "backup-cloud",
       "prezzo_centesimi": 799,
-      "descrizione": "Archivio cloud personale con condivisione. Disponibile per Android, Mac, Windows e Linux.",
-      "descrizione_completa": "Archivio cloud personale con condivisione. Disponibile per Android, Mac, Windows e Linux.",
+      "descrizione": "Archivio cloud personale con condivisione.",
+      "descrizione_completa": "Archivio cloud personale con condivisione.",
       "immagine": "",
       "icona": "☁️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "CloudBox",
-          "descrizione": "Personal cloud storage with sharing. Available for Android, Mac, Windows and Linux.",
-          "descrizione_completa": "Personal cloud storage with sharing. Available for Android, Mac, Windows and Linux."
+          "descrizione": "Personal cloud storage with sharing.",
+          "descrizione_completa": "Personal cloud storage with sharing."
         }
-      }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android",
+        "ios"
+      ]
     }
   ]
 }
