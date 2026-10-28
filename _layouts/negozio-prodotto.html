@@ -33,11 +33,11 @@ PUNTI CRITICI
 <p class="nz-pp-badge">{% if nz_dig %}Prodotto digitale{% else %}Prodotto fisico{% endif %}</p>
 <p class="nz-prezzo nz-pp-prezzo fw-bold"></p>
 <p class="nz-pp-breve">{{ nz_p.tr[page.lang].descrizione | default: nz_p.descrizione | escape }}</p>
-<div class="nz-pp-acq">
+{%- if nz_p.app -%}<!-- SCARICA-APP: href="#" provvisorio (smoke test), il pagamento si collega qui --><a class="btn btn-primary" href="#">Scarica app</a>{%- else -%}<div class="nz-pp-acq">
 <div class="nz-step"><button type="button" class="nz-stp" data-d="-1" aria-label="Meno">&minus;</button><input type="number" class="nz-qta" min="1" max="20" value="1" aria-label="Quantit&agrave;"><button type="button" class="nz-stp" data-d="1" aria-label="Pi&ugrave;">+</button></div>
 <button type="button" class="btn btn-primary nz-add">Aggiungi al carrello</button>
 <span class="nz-ok" aria-live="polite"></span>
-</div>
+</div>{%- endif -%}
 </div>
 </div>
 <section class="nz-pp-desc"><h2>Descrizione</h2>

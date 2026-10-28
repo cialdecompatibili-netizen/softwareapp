@@ -1,6 +1,34 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "Editing video",
+    "slug": "video-editing"
+  },
+  {
+    "nome": "Foto e grafica",
+    "slug": "foto-grafica"
+  },
+  {
+    "nome": "AI e produttività",
+    "slug": "ai-produttivita"
+  },
+  {
+    "nome": "VPN e sicurezza",
+    "slug": "vpn-sicurezza"
+  },
+  {
+    "nome": "Gaming e streaming",
+    "slug": "gaming-streaming"
+  },
+  {
+    "nome": "Audio e musica",
+    "slug": "audio-musica"
+  },
+  {
+    "nome": "Utility e PDF",
+    "slug": "utility-pdf"
+  },
+  {
+    "nome": "Backup e cloud",
+    "slug": "backup-cloud"
   }
 ]
