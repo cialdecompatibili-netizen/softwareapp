@@ -90,16 +90,16 @@
       "nome": "ClipForge",
       "categoria": "video-editing",
       "prezzo_centesimi": 2999,
-      "descrizione": "Editor video a timeline per montaggi rapidi.",
-      "descrizione_completa": "Editor video a timeline per montaggi rapidi.",
+      "descrizione": "Editor video a timeline: taglia, monta e esporta in pochi minuti.",
+      "descrizione_completa": "ClipForge è l'editor video pensato per chi vuole montare senza imparare un software complicato. Trascini i clip sulla timeline, tagli, aggiungi musica e titoli e in pochi minuti hai un video pronto da pubblicare, con un'anteprima fluida anche sui filmati lunghi.\n\n### Cosa puoi fare\n\n- Timeline multitraccia con tagli, spostamenti e zoom precisi\n- Titoli, transizioni e filtri colore pronti all'uso\n- Audio separato per voce, musica ed effetti, con regolazione del volume\n- Esportazione in Full HD e 4K, con preset per social e web\n- Salvataggio automatico del progetto, così non perdi il lavoro\n\n### Per chi è\n\nCreator, studenti, piccole attività e chiunque debba montare video senza uno studio alle spalle.",
       "immagine": "",
       "icona": "🎬",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ClipForge",
-          "descrizione": "Timeline video editor for fast edits.",
-          "descrizione_completa": "Timeline video editor for fast edits."
+          "descrizione": "Timeline video editor: cut, edit and export in minutes.",
+          "descrizione_completa": "ClipForge is the video editor for people who want to edit without learning complicated software. Drag clips onto the timeline, trim, add music and titles, and in minutes you have a video ready to publish, with smooth preview even on long footage.\n\n### What you can do\n\n- Multitrack timeline with precise cuts, moves and zoom\n- Ready-to-use titles, transitions and color filters\n- Separate audio for voice, music and effects with volume control\n- Export in Full HD and 4K, with presets for social and web\n- Automatic project saving, so you never lose your work\n\n### Who it's for\n\nCreators, students, small businesses and anyone who needs to edit video without a studio."
         }
       },
       "piattaforme": [
@@ -117,15 +117,15 @@
       "categoria": "video-editing",
       "prezzo_centesimi": 1999,
       "descrizione": "Crea reel e short verticali con template pronti.",
-      "descrizione_completa": "Crea reel e short verticali con template pronti.",
+      "descrizione_completa": "ReelMaker trasforma le tue idee in video verticali pronti per Instagram, TikTok e YouTube Shorts. Scegli un template, inserisci foto e clip, e l'app sistema ritmo, testi e musica al posto tuo.\n\n### Cosa puoi fare\n\n- Template verticali 9:16 per reel, short e storie\n- Sottotitoli automatici da modificare con un tocco\n- Libreria di effetti, adesivi e font\n- Ritmo sulla musica: i tagli seguono il beat\n- Esportazione ottimizzata per ogni piattaforma social\n\n### Per chi è\n\nSocial media manager, negozi, ristoratori e creator che pubblicano ogni giorno.",
       "immagine": "",
       "icona": "🎬",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ReelMaker",
-          "descrizione": "Make vertical reels and shorts from ready templates.",
-          "descrizione_completa": "Make vertical reels and shorts from ready templates."
+          "descrizione": "Create vertical reels and shorts with ready-made templates.",
+          "descrizione_completa": "ReelMaker turns your ideas into vertical videos ready for Instagram, TikTok and YouTube Shorts. Pick a template, add photos and clips, and the app handles pacing, text and music for you.\n\n### What you can do\n\n- 9:16 vertical templates for reels, shorts and stories\n- Automatic captions you can edit with a tap\n- Library of effects, stickers and fonts\n- Beat sync: cuts follow the music\n- Export optimized for each social platform\n\n### Who it's for\n\nSocial media managers, shops, restaurants and creators who post every day."
         }
       },
       "piattaforme": [
@@ -143,15 +143,15 @@
       "categoria": "foto-grafica",
       "prezzo_centesimi": 2499,
       "descrizione": "Ritocco foto e livelli, stile professionale.",
-      "descrizione_completa": "Ritocco foto e livelli, stile professionale.",
+      "descrizione_completa": "PixelPro è l'editor di immagini per ritoccare, comporre e rifinire le tue foto con strumenti da professionista. Lavori a livelli, correggi luce e colore e salvi nei formati che ti servono.\n\n### Cosa puoi fare\n\n- Livelli, maschere e modalità di fusione\n- Correzione di luce, contrasto, colore e nitidezza\n- Pennelli, clonazione e rimozione dei difetti\n- Ritaglio, ridimensionamento e ritocco in batch\n- Supporto a JPG, PNG, WebP e formati RAW più comuni\n\n### Per chi è\n\nFotografi, grafici, e-commerce e appassionati che vogliono risultati curati.",
       "immagine": "",
       "icona": "🖼️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PixelPro",
-          "descrizione": "Photo retouching and layers, pro style.",
-          "descrizione_completa": "Photo retouching and layers, pro style."
+          "descrizione": "Photo retouching and layers, professional style.",
+          "descrizione_completa": "PixelPro is the image editor for retouching, compositing and polishing your photos with professional tools. Work in layers, fix light and color, and save in the formats you need.\n\n### What you can do\n\n- Layers, masks and blend modes\n- Light, contrast, color and sharpness correction\n- Brushes, cloning and blemish removal\n- Crop, resize and batch editing\n- Support for JPG, PNG, WebP and common RAW formats\n\n### Who it's for\n\nPhotographers, designers, online shops and enthusiasts who want polished results."
         }
       },
       "piattaforme": [
@@ -168,16 +168,16 @@
       "nome": "Vectorly",
       "categoria": "foto-grafica",
       "prezzo_centesimi": 1999,
-      "descrizione": "Disegno vettoriale per loghi e illustrazioni.",
-      "descrizione_completa": "Disegno vettoriale per loghi e illustrazioni.",
+      "descrizione": "Disegno vettoriale per loghi, icone e illustrazioni.",
+      "descrizione_completa": "Vectorly è l'app di grafica vettoriale per creare loghi, icone e illustrazioni che restano nitide a qualsiasi dimensione, dal biglietto da visita al cartellone.\n\n### Cosa puoi fare\n\n- Penna, forme e tracciati modificabili punto per punto\n- Colori, sfumature e tavolozze salvabili\n- Testo su tracciato e font integrati\n- Più tavole da disegno in un solo file\n- Esportazione in SVG, PDF e PNG\n\n### Per chi è\n\nDesigner, studi grafici, stampatori e chi crea il logo della propria attività.",
       "immagine": "",
       "icona": "🖼️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "Vectorly",
-          "descrizione": "Vector drawing for logos and illustrations.",
-          "descrizione_completa": "Vector drawing for logos and illustrations."
+          "descrizione": "Vector drawing for logos, icons and illustrations.",
+          "descrizione_completa": "Vectorly is the vector graphics app for creating logos, icons and illustrations that stay sharp at any size, from a business card to a billboard.\n\n### What you can do\n\n- Pen, shapes and editable paths, point by point\n- Colors, gradients and saveable palettes\n- Text on path and built-in fonts\n- Multiple artboards in a single file\n- Export to SVG, PDF and PNG\n\n### Who it's for\n\nDesigners, studios, print shops and anyone creating their own business logo."
         }
       },
       "piattaforme": [
@@ -194,16 +194,16 @@
       "nome": "NotaMind",
       "categoria": "ai-produttivita",
       "prezzo_centesimi": 999,
-      "descrizione": "Appunti con assistente AI e ricerca smart.",
-      "descrizione_completa": "Appunti con assistente AI e ricerca smart.",
+      "descrizione": "Note intelligenti con assistente AI e ricerca istantanea.",
+      "descrizione_completa": "NotaMind riunisce appunti, idee e documenti in un unico spazio ordinato. L'assistente AI riassume, riscrive e ti aiuta a ritrovare ogni informazione in un attimo.\n\n### Cosa puoi fare\n\n- Note con titoli, elenchi, tabelle e immagini\n- Assistente AI per riassunti e bozze di testo\n- Cartelle, tag e ricerca su tutto il contenuto\n- Sincronizzazione tra computer e telefono\n- Esportazione in Markdown e PDF\n\n### Per chi è\n\nStudenti, professionisti e team che vogliono tenere tutto in un posto solo.",
       "immagine": "",
       "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "NotaMind",
-          "descrizione": "Notes with AI assistant and smart search.",
-          "descrizione_completa": "Notes with AI assistant and smart search."
+          "descrizione": "Smart notes with an AI assistant and instant search.",
+          "descrizione_completa": "NotaMind gathers notes, ideas and documents in one tidy space. The AI assistant summarizes, rewrites and helps you find any piece of information in a moment.\n\n### What you can do\n\n- Notes with headings, lists, tables and images\n- AI assistant for summaries and text drafts\n- Folders, tags and search across all content\n- Sync between computer and phone\n- Export to Markdown and PDF\n\n### Who it's for\n\nStudents, professionals and teams who want everything in one place."
         }
       },
       "piattaforme": [
@@ -221,16 +221,16 @@
       "nome": "TaskFlow",
       "categoria": "ai-produttivita",
       "prezzo_centesimi": 1299,
-      "descrizione": "Gestione attività e progetti per team piccoli.",
-      "descrizione_completa": "Gestione attività e progetti per team piccoli.",
+      "descrizione": "Gestione attività e tempo, semplice ed efficace.",
+      "descrizione_completa": "TaskFlow ti aiuta a decidere cosa fare e quando farlo. Organizzi attività e progetti, lavori a sessioni concentrate e vedi a fine giornata cosa hai concluso.\n\n### Cosa puoi fare\n\n- Liste, progetti e scadenze con promemoria\n- Timer a sessioni per lavorare senza distrazioni\n- Priorità e vista giornaliera o settimanale\n- Attività ricorrenti e sotto-attività\n- Statistiche di tempo e produttività\n\n### Per chi è\n\nFreelance, studenti e team piccoli che vogliono più ordine e meno stress.",
       "immagine": "",
       "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "TaskFlow",
-          "descrizione": "Task and project management for small teams.",
-          "descrizione_completa": "Task and project management for small teams."
+          "descrizione": "Task and time management, simple and effective.",
+          "descrizione_completa": "TaskFlow helps you decide what to do and when. Organize tasks and projects, work in focused sessions, and see at the end of the day what you finished.\n\n### What you can do\n\n- Lists, projects and deadlines with reminders\n- Session timer for distraction-free work\n- Priorities with daily and weekly views\n- Recurring tasks and subtasks\n- Time and productivity statistics\n\n### Who it's for\n\nFreelancers, students and small teams who want more order and less stress."
         }
       },
       "piattaforme": [
@@ -248,16 +248,16 @@
       "nome": "ShieldVPN",
       "categoria": "vpn-sicurezza",
       "prezzo_centesimi": 599,
-      "descrizione": "VPN veloce con server in tutto il mondo.",
-      "descrizione_completa": "VPN veloce con server in tutto il mondo.",
+      "descrizione": "VPN veloce per navigare in modo privato e sicuro.",
+      "descrizione_completa": "ShieldVPN cifra la tua connessione e nasconde il tuo indirizzo IP, così navighi in modo privato anche su reti Wi-Fi pubbliche, in viaggio o a casa.\n\n### Cosa puoi fare\n\n- Connessione cifrata con un solo tocco\n- Server in molti Paesi per cambiare posizione virtuale\n- Kill switch: se cade la VPN, la rete si blocca\n- Nessun registro delle tue attività\n- Un abbonamento per più dispositivi\n\n### Per chi è\n\nChi viaggia, lavora da remoto o vuole più privacy online.",
       "immagine": "",
       "icona": "🛡️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "ShieldVPN",
-          "descrizione": "Fast VPN with servers worldwide.",
-          "descrizione_completa": "Fast VPN with servers worldwide."
+          "descrizione": "Fast VPN for private and secure browsing.",
+          "descrizione_completa": "ShieldVPN encrypts your connection and hides your IP address, so you browse privately even on public Wi-Fi, while traveling or at home.\n\n### What you can do\n\n- Encrypted connection with a single tap\n- Servers in many countries to change your virtual location\n- Kill switch: if the VPN drops, the network is blocked\n- No logging of your activity\n- One subscription for multiple devices\n\n### Who it's for\n\nTravelers, remote workers and anyone who wants more online privacy."
         }
       },
       "piattaforme": [
@@ -275,16 +275,16 @@
       "nome": "PassVault",
       "categoria": "vpn-sicurezza",
       "prezzo_centesimi": 399,
-      "descrizione": "Gestore di password cifrato.",
-      "descrizione_completa": "Gestore di password cifrato.",
+      "descrizione": "Gestore di password sicuro, tutto in una cassaforte.",
+      "descrizione_completa": "PassVault custodisce password, carte e note riservate in una cassaforte cifrata, protetta da una sola password principale. Non devi più ricordarne decine.\n\n### Cosa puoi fare\n\n- Archivio cifrato con password principale\n- Generatore di password lunghe e uniche\n- Compilazione automatica dei moduli di accesso\n- Controllo delle password deboli o ripetute\n- Copia di sicurezza e importazione da altri gestori\n\n### Per chi è\n\nChiunque abbia troppi account e voglia proteggerli davvero.",
       "immagine": "",
       "icona": "🛡️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PassVault",
-          "descrizione": "Encrypted password manager.",
-          "descrizione_completa": "Encrypted password manager."
+          "descrizione": "Secure password manager, everything in one vault.",
+          "descrizione_completa": "PassVault keeps passwords, cards and private notes in an encrypted vault protected by a single master password. No more remembering dozens of them.\n\n### What you can do\n\n- Encrypted storage with a master password\n- Generator for long, unique passwords\n- Autofill for login forms\n- Check for weak or reused passwords\n- Backup and import from other managers\n\n### Who it's for\n\nAnyone with too many accounts who wants to protect them properly."
         }
       },
       "piattaforme": [
@@ -302,16 +302,16 @@
       "nome": "StreamCast",
       "categoria": "gaming-streaming",
       "prezzo_centesimi": 1499,
-      "descrizione": "Trasmetti il gioco in diretta con overlay.",
-      "descrizione_completa": "Trasmetti il gioco in diretta con overlay.",
+      "descrizione": "Registra e trasmetti in diretta con scene personalizzabili.",
+      "descrizione_completa": "StreamCast ti permette di registrare lo schermo e andare in diretta con un aspetto da professionista. Componi scene, aggiungi webcam e overlay e passa dall'una all'altra mentre trasmetti.\n\n### Cosa puoi fare\n\n- Scene con schermo, webcam, immagini e testi\n- Diretta sulle principali piattaforme di streaming\n- Mixer audio per microfono e suoni di sistema\n- Registrazione locale in alta qualità\n- Transizioni e scorciatoie da tastiera\n\n### Per chi è\n\nStreamer, formatori, gamer e chi registra tutorial e lezioni.",
       "immagine": "",
       "icona": "🎮",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "StreamCast",
-          "descrizione": "Stream your game live with overlays.",
-          "descrizione_completa": "Stream your game live with overlays."
+          "descrizione": "Record and live stream with customizable scenes.",
+          "descrizione_completa": "StreamCast lets you record your screen and go live with a professional look. Build scenes, add webcam and overlays, and switch between them while you broadcast.\n\n### What you can do\n\n- Scenes with screen, webcam, images and text\n- Live streaming to the major platforms\n- Audio mixer for microphone and system sounds\n- High-quality local recording\n- Transitions and keyboard shortcuts\n\n### Who it's for\n\nStreamers, trainers, gamers and anyone recording tutorials and lessons."
         }
       },
       "piattaforme": [
@@ -328,16 +328,16 @@
       "nome": "GameBooster",
       "categoria": "gaming-streaming",
       "prezzo_centesimi": 799,
-      "descrizione": "Ottimizza il PC per giocare meglio.",
-      "descrizione_completa": "Ottimizza il PC per giocare meglio.",
+      "descrizione": "Più fluidità nei giochi: libera risorse con un clic.",
+      "descrizione_completa": "GameBooster prepara il dispositivo prima di giocare: chiude i processi inutili e libera memoria, per mantenere i fotogrammi più stabili e ridurre i rallentamenti.\n\n### Cosa puoi fare\n\n- Modalità gioco con un clic\n- Chiusura dei processi in background non necessari\n- Monitor di CPU, memoria e temperatura\n- Profili salvati per ogni gioco\n- Ripristino automatico a fine sessione\n\n### Per chi è\n\nChi gioca su computer o telefono non recentissimi e vuole sfruttarli meglio.",
       "immagine": "",
       "icona": "🎮",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "GameBooster",
-          "descrizione": "Tune your PC for better gaming.",
-          "descrizione_completa": "Tune your PC for better gaming."
+          "descrizione": "Smoother gaming: free up resources with one click.",
+          "descrizione_completa": "GameBooster prepares your device before you play: it closes unneeded processes and frees memory to keep frame rates steadier and reduce slowdowns.\n\n### What you can do\n\n- One-click game mode\n- Closes unnecessary background processes\n- CPU, memory and temperature monitor\n- Saved profiles for each game\n- Automatic restore at the end of the session\n\n### Who it's for\n\nPlayers on computers or phones that aren't the latest and want to get more out of them."
         }
       },
       "piattaforme": [
@@ -352,16 +352,16 @@
       "nome": "WaveStudio",
       "categoria": "audio-musica",
       "prezzo_centesimi": 1999,
-      "descrizione": "Registra e monta audio e podcast.",
-      "descrizione_completa": "Registra e monta audio e podcast.",
+      "descrizione": "Editor audio per registrare, pulire e rifinire le tracce.",
+      "descrizione_completa": "WaveStudio è lo studio audio per registrare voce e strumenti, eliminare i rumori e rifinire ogni traccia fino al risultato finale.\n\n### Cosa puoi fare\n\n- Registrazione multitraccia\n- Riduzione del rumore e normalizzazione del volume\n- Equalizzatore, compressore ed effetti\n- Taglio e montaggio preciso sull'onda sonora\n- Esportazione in WAV, MP3 e FLAC\n\n### Per chi è\n\nPodcaster, musicisti, speaker e chi registra lezioni o interviste.",
       "immagine": "",
       "icona": "🎧",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "WaveStudio",
-          "descrizione": "Record and edit audio and podcasts.",
-          "descrizione_completa": "Record and edit audio and podcasts."
+          "descrizione": "Audio editor to record, clean up and polish tracks.",
+          "descrizione_completa": "WaveStudio is the audio studio for recording voice and instruments, removing noise and polishing every track to the final result.\n\n### What you can do\n\n- Multitrack recording\n- Noise reduction and volume normalization\n- Equalizer, compressor and effects\n- Precise cutting and editing on the waveform\n- Export to WAV, MP3 and FLAC\n\n### Who it's for\n\nPodcasters, musicians, voice talents and anyone recording lessons or interviews."
         }
       },
       "piattaforme": [
@@ -379,15 +379,15 @@
       "categoria": "audio-musica",
       "prezzo_centesimi": 1499,
       "descrizione": "Crea basi musicali con pad e campioni.",
-      "descrizione_completa": "Crea basi musicali con pad e campioni.",
+      "descrizione_completa": "BeatPad è la drum machine da tasca e da scrivania: suoni i pad, registri il pattern e costruisci una base completa anche senza saper leggere la musica.\n\n### Cosa puoi fare\n\n- Griglia di pad con campioni inclusi\n- Sequencer a passi per batteria e linee di basso\n- Importazione dei tuoi campioni audio\n- Tempo, swing ed effetti regolabili\n- Esportazione della base in audio\n\n### Per chi è\n\nProduttori alle prime armi, beatmaker e musicisti che cercano uno schizzo veloce.",
       "immagine": "",
       "icona": "🎧",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "BeatPad",
-          "descrizione": "Make beats with pads and samples.",
-          "descrizione_completa": "Make beats with pads and samples."
+          "descrizione": "Create beats with pads and samples.",
+          "descrizione_completa": "BeatPad is the drum machine for pocket and desktop: play the pads, record the pattern and build a full beat even if you can't read music.\n\n### What you can do\n\n- Pad grid with included samples\n- Step sequencer for drums and bass lines\n- Import your own audio samples\n- Adjustable tempo, swing and effects\n- Export the beat as audio\n\n### Who it's for\n\nBeginner producers, beatmakers and musicians who want a quick sketch."
         }
       },
       "piattaforme": [
@@ -404,16 +404,16 @@
       "nome": "PDFMaster",
       "categoria": "utility-pdf",
       "prezzo_centesimi": 1299,
-      "descrizione": "Modifica, unisci e firma PDF.",
-      "descrizione_completa": "Modifica, unisci e firma PDF.",
+      "descrizione": "Unisci, dividi, comprimi e modifica i PDF.",
+      "descrizione_completa": "PDFMaster raccoglie in un'app tutto ciò che serve per lavorare con i PDF. Unisci documenti, estrai pagine, comprimi file pesanti e firma senza stampare.\n\n### Cosa puoi fare\n\n- Unione e divisione di PDF\n- Compressione per inviare file via email\n- Conversione da e verso Word, Excel e immagini\n- Firma, annotazioni e compilazione di moduli\n- Protezione con password e riconoscimento del testo (OCR)\n\n### Per chi è\n\nUffici, professionisti, studenti e chiunque gestisca documenti ogni giorno.",
       "immagine": "",
       "icona": "🧰",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "PDFMaster",
-          "descrizione": "Edit, merge and sign PDFs.",
-          "descrizione_completa": "Edit, merge and sign PDFs."
+          "descrizione": "Merge, split, compress and edit PDFs.",
+          "descrizione_completa": "PDFMaster brings everything you need for PDFs into one app. Merge documents, extract pages, compress heavy files and sign without printing.\n\n### What you can do\n\n- Merge and split PDFs\n- Compression for sending files by email\n- Convert to and from Word, Excel and images\n- Signing, annotations and form filling\n- Password protection and text recognition (OCR)\n\n### Who it's for\n\nOffices, professionals, students and anyone handling documents every day."
         }
       },
       "piattaforme": [
@@ -430,16 +430,16 @@
       "nome": "CleanDisk",
       "categoria": "utility-pdf",
       "prezzo_centesimi": 699,
-      "descrizione": "Libera spazio e pulisce i file inutili.",
-      "descrizione_completa": "Libera spazio e pulisce i file inutili.",
+      "descrizione": "Pulizia del disco: libera spazio e rimuovi file inutili.",
+      "descrizione_completa": "CleanDisk cerca file temporanei, cache e residui che occupano spazio inutilmente e li rimuove in sicurezza, così il computer respira e riparte più reattivo.\n\n### Cosa puoi fare\n\n- Scansione di cache, file temporanei e cestino\n- Anteprima prima di eliminare qualsiasi cosa\n- Ricerca di file grandi e duplicati\n- Cancellazione sicura dei dati sensibili\n- Pulizia pianificata automatica\n\n### Per chi è\n\nChi ha il disco quasi pieno o vuole mantenere il computer in ordine.",
       "immagine": "",
       "icona": "🧰",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "CleanDisk",
-          "descrizione": "Free up space and clean junk files.",
-          "descrizione_completa": "Free up space and clean junk files."
+          "descrizione": "Disk cleaner: free up space and remove junk files.",
+          "descrizione_completa": "CleanDisk finds temporary files, caches and leftovers that waste space and removes them safely, so your computer can breathe and feel more responsive.\n\n### What you can do\n\n- Scan of caches, temporary files and trash\n- Preview before deleting anything\n- Search for large files and duplicates\n- Secure deletion of sensitive data\n- Automatic scheduled cleaning\n\n### Who it's for\n\nAnyone with an almost-full disk or who wants to keep their computer tidy."
         }
       },
       "piattaforme": [
@@ -455,16 +455,16 @@
       "nome": "SafeSync",
       "categoria": "backup-cloud",
       "prezzo_centesimi": 899,
-      "descrizione": "Backup automatico e sincronizzazione file.",
-      "descrizione_completa": "Backup automatico e sincronizzazione file.",
+      "descrizione": "Sincronizzazione e backup dei file tra i tuoi dispositivi.",
+      "descrizione_completa": "SafeSync tiene allineate le cartelle che scegli su tutti i tuoi dispositivi, con una copia di sicurezza sempre aggiornata. I tuoi file passano direttamente tra le tue macchine, cifrati.\n\n### Cosa puoi fare\n\n- Sincronizzazione continua delle cartelle scelte\n- Trasferimento cifrato tra i tuoi dispositivi\n- Cronologia delle versioni per recuperare vecchi file\n- Nessun limite imposto di spazio da parte dell'app\n- Condivisione di cartelle con altre persone\n\n### Per chi è\n\nChi lavora su più computer e non vuole perdere un file.",
       "immagine": "",
       "icona": "☁️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "SafeSync",
-          "descrizione": "Automatic backup and file sync.",
-          "descrizione_completa": "Automatic backup and file sync."
+          "descrizione": "File sync and backup across your devices.",
+          "descrizione_completa": "SafeSync keeps the folders you choose aligned across all your devices, with an always up-to-date safety copy. Your files travel directly between your machines, encrypted.\n\n### What you can do\n\n- Continuous sync of the folders you choose\n- Encrypted transfer between your devices\n- Version history to recover older files\n- No space limit imposed by the app\n- Folder sharing with other people\n\n### Who it's for\n\nAnyone working on several computers who doesn't want to lose a file."
         }
       },
       "piattaforme": [
@@ -482,16 +482,16 @@
       "nome": "CloudBox",
       "categoria": "backup-cloud",
       "prezzo_centesimi": 799,
-      "descrizione": "Archivio cloud personale con condivisione.",
-      "descrizione_completa": "Archivio cloud personale con condivisione.",
+      "descrizione": "Il tuo spazio cloud personale per file, foto e documenti.",
+      "descrizione_completa": "CloudBox è lo spazio online dove tenere file, foto e documenti, accessibile da computer e telefono e condivisibile con un link.\n\n### Cosa puoi fare\n\n- Archivio online con accesso da qualsiasi dispositivo\n- Caricamento automatico delle foto dal telefono\n- Condivisione con link e permessi\n- Anteprima di documenti, immagini e video\n- Cartelle condivise per famiglia o team\n\n### Per chi è\n\nFamiglie, freelance e piccoli team che vogliono i file sempre a portata di mano.",
       "immagine": "",
       "icona": "☁️",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "CloudBox",
-          "descrizione": "Personal cloud storage with sharing.",
-          "descrizione_completa": "Personal cloud storage with sharing."
+          "descrizione": "Your personal cloud space for files, photos and documents.",
+          "descrizione_completa": "CloudBox is the online space to keep files, photos and documents, reachable from computer and phone and shareable with a link.\n\n### What you can do\n\n- Online storage accessible from any device\n- Automatic photo upload from your phone\n- Link sharing with permissions\n- Preview of documents, images and video\n- Shared folders for family or team\n\n### Who it's for\n\nFamilies, freelancers and small teams who want files always at hand."
         }
       },
       "piattaforme": [
