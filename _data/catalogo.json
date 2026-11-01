@@ -501,6 +501,207 @@
         "android",
         "ios"
       ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "clipshrink",
+      "nome": "ClipShrink",
+      "categoria": "video-editing",
+      "prezzo_centesimi": 1499,
+      "descrizione": "Converti e comprimi video per telefono, TV e web.",
+      "descrizione_completa": "ClipShrink prende i video che hai già e li trasforma in file leggeri e compatibili con telefono, TV, console o browser, senza dover capire codec e impostazioni.\n\n## Cosa puoi fare\n\n- Preset pronti per telefono, TV, web e social\n- Formati MP4, MKV e WebM con codec moderni (H.264, H.265, AV1)\n- Coda di conversione: aggiungi più file e vai a dormire\n- Anteprima e taglio di inizio e fine prima di convertire\n- Sottotitoli e tracce audio a scelta\n\n## Per chi è\n\nChi ha video troppo pesanti da inviare o da riprodurre su un dispositivo.",
+      "immagine": "",
+      "icona": "🗜️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ClipShrink",
+          "descrizione": "Convert and compress video for phone, TV and web.",
+          "descrizione_completa": "ClipShrink takes the videos you already have and turns them into light files that play on phones, TVs, consoles or browsers, without having to understand codecs and settings.\n\n## What you can do\n\n- Ready presets for phone, TV, web and social\n- MP4, MKV and WebM with modern codecs (H.264, H.265, AV1)\n- Conversion queue: add several files and walk away\n- Preview and trim start and end before converting\n- Subtitles and audio tracks of your choice\n\n## Who it's for\n\nAnyone with videos too heavy to send or to play on a device."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "sharpup",
+      "nome": "SharpUp",
+      "categoria": "foto-grafica",
+      "prezzo_centesimi": 1299,
+      "descrizione": "Ingrandisci le immagini con l'intelligenza artificiale.",
+      "descrizione_completa": "SharpUp ingrandisce foto piccole o sgranate ricostruendo i dettagli con modelli di intelligenza artificiale, fino a 4 volte la dimensione originale.\n\n## Cosa puoi fare\n\n- Ingrandimento 2x, 3x e 4x con modelli AI selezionabili\n- Elaborazione di intere cartelle in un solo passaggio\n- Scelta della scheda video da usare per andare più veloce\n- Possibilità di aggiungere nuovi modelli personalizzati\n- Funziona offline: le immagini restano sul tuo computer\n\n## Per chi è\n\nFotografi, grafici e negozi online con immagini a bassa risoluzione. Serve una scheda video compatibile.",
+      "immagine": "",
+      "icona": "🔍",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SharpUp",
+          "descrizione": "Enlarge images with artificial intelligence.",
+          "descrizione_completa": "SharpUp enlarges small or pixelated photos by rebuilding detail with AI models, up to 4 times the original size.\n\n## What you can do\n\n- 2x, 3x and 4x enlargement with selectable AI models\n- Whole folders processed in one go\n- Choose which graphics card to use for more speed\n- Add new custom models\n- Works offline: images stay on your computer\n\n## Who it's for\n\nPhotographers, designers and online shops with low-resolution images. A compatible graphics card is required."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "gifsnap",
+      "nome": "GifSnap",
+      "categoria": "gaming-streaming",
+      "prezzo_centesimi": 799,
+      "descrizione": "Registra lo schermo e salvalo come GIF o video.",
+      "descrizione_completa": "GifSnap registra l'area dello schermo che scegli e la salva come GIF animata o video, con un editor per rifinire il risultato prima di condividerlo.\n\n## Cosa puoi fare\n\n- Registrazione di un'area, di una finestra o dello schermo intero\n- Registrazione da webcam e lavagna per disegnare\n- Editor a fotogrammi: taglia, elimina e cambia velocità\n- Testi, frecce e filtri sopra la registrazione\n- Esportazione in GIF, MP4 e WebM\n\n## Per chi è\n\nChi crea tutorial, segnalazioni di bug e clip veloci da condividere.",
+      "immagine": "",
+      "icona": "🎞️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "GifSnap",
+          "descrizione": "Record your screen and save it as GIF or video.",
+          "descrizione_completa": "GifSnap records the screen area you choose and saves it as an animated GIF or video, with an editor to polish the result before sharing.\n\n## What you can do\n\n- Record an area, a window or the full screen\n- Webcam recording and a drawing board\n- Frame editor: trim, delete and change speed\n- Text, arrows and filters over the recording\n- Export to GIF, MP4 and WebM\n\n## Who it's for\n\nPeople who make tutorials, bug reports and quick clips to share."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "scribeai",
+      "nome": "ScribeAI",
+      "categoria": "ai-produttivita",
+      "prezzo_centesimi": 1199,
+      "descrizione": "Trascrivi audio e riunioni in testo, sul tuo computer.",
+      "descrizione_completa": "ScribeAI trasforma registrazioni, interviste e riunioni in testo scritto, con timestamp e sottotitoli, elaborando tutto in locale.\n\n## Cosa puoi fare\n\n- Trascrizione di file audio e video in molte lingue\n- Registrazione dal microfono con testo in tempo reale\n- Esportazione in TXT, SRT e VTT per i sottotitoli\n- Ricerca nel testo con salto al punto esatto dell'audio\n- Tutto offline: niente caricamenti su server esterni\n\n## Per chi è\n\nGiornalisti, studenti, podcaster e team che verbalizzano riunioni.",
+      "immagine": "",
+      "icona": "🎙️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ScribeAI",
+          "descrizione": "Turn audio and meetings into text, on your computer.",
+          "descrizione_completa": "ScribeAI turns recordings, interviews and meetings into written text, with timestamps and subtitles, processing everything locally.\n\n## What you can do\n\n- Transcription of audio and video files in many languages\n- Microphone recording with live text\n- Export to TXT, SRT and VTT for subtitles\n- Text search that jumps to the exact point in the audio\n- Fully offline: nothing uploaded to outside servers\n\n## Who it's for\n\nJournalists, students, podcasters and teams that take meeting minutes."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "vaultlock",
+      "nome": "VaultLock",
+      "categoria": "vpn-sicurezza",
+      "prezzo_centesimi": 699,
+      "descrizione": "Cifra le cartelle prima di metterle nel cloud.",
+      "descrizione_completa": "VaultLock crea casseforti cifrate sul tuo dispositivo: i file vengono protetti prima di arrivare su Dropbox, Google Drive o qualsiasi altro servizio cloud.\n\n## Cosa puoi fare\n\n- Cassaforti cifrate che si aprono come un'unità del computer\n- Cifratura dei nomi e dei contenuti dei file\n- Funziona con qualsiasi servizio cloud o cartella sincronizzata\n- Una sola password per cassaforte, nessun account da creare\n- App per telefono per leggere i file in sicurezza\n\n## Per chi è\n\nChi usa il cloud ma vuole che nessun altro possa leggere i propri file.",
+      "immagine": "",
+      "icona": "🔐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "VaultLock",
+          "descrizione": "Encrypt folders before putting them in the cloud.",
+          "descrizione_completa": "VaultLock creates encrypted vaults on your device: files are protected before they reach Dropbox, Google Drive or any other cloud service.\n\n## What you can do\n\n- Encrypted vaults that open like a drive on your computer\n- Encryption of file names and contents\n- Works with any cloud service or synced folder\n- One password per vault, no account to create\n- Phone app to read files securely\n\n## Who it's for\n\nPeople who use the cloud but want nobody else to read their files."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "mixdeck",
+      "nome": "MixDeck",
+      "categoria": "audio-musica",
+      "prezzo_centesimi": 1799,
+      "descrizione": "Console DJ per mixare brani con due o quattro deck.",
+      "descrizione_completa": "MixDeck è la console da DJ per mixare la tua musica: carichi i brani sui deck, sincronizzi il tempo e passi dall'uno all'altro con transizioni fluide.\n\n## Cosa puoi fare\n\n- Due o quattro deck con sincronizzazione automatica del tempo\n- Rilevamento di BPM e tonalità per abbinare i brani\n- Loop, cue point ed effetti in tempo reale\n- Libreria con playlist, ricerca e copertine\n- Registrazione del mix e supporto a controller MIDI\n\n## Per chi è\n\nDJ alle prime armi, feste private e musicisti che vogliono mixare dal computer.",
+      "immagine": "",
+      "icona": "🎚️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "MixDeck",
+          "descrizione": "DJ console to mix tracks with two or four decks.",
+          "descrizione_completa": "MixDeck is the DJ console for mixing your music: load tracks onto the decks, sync the tempo and move from one to the other with smooth transitions.\n\n## What you can do\n\n- Two or four decks with automatic tempo sync\n- BPM and key detection to match tracks\n- Loops, cue points and real-time effects\n- Library with playlists, search and cover art\n- Mix recording and MIDI controller support\n\n## Who it's for\n\nBeginner DJs, private parties and musicians who want to mix from a computer."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "twinclean",
+      "nome": "TwinClean",
+      "categoria": "utility-pdf",
+      "prezzo_centesimi": 599,
+      "descrizione": "Trova duplicati, file vuoti e cose inutili sul disco.",
+      "descrizione_completa": "TwinClean scansiona il disco in pochi secondi e mostra file duplicati, immagini quasi identiche, cartelle vuote e file enormi, così scegli tu cosa eliminare.\n\n## Cosa puoi fare\n\n- Ricerca di duplicati per nome, dimensione o contenuto\n- Immagini, video e brani simili anche se in formati diversi\n- Cartelle e file vuoti, file temporanei e link rotti\n- Elenco dei file più grandi per liberare spazio subito\n- Rimozione dei dati nascosti (EXIF) dalle foto prima di condividerle\n\n## Per chi è\n\nChi ha tante foto, video e download e il disco quasi pieno.",
+      "immagine": "",
+      "icona": "🧹",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "TwinClean",
+          "descrizione": "Find duplicates, empty files and junk on your disk.",
+          "descrizione_completa": "TwinClean scans your disk in seconds and shows duplicate files, near-identical images, empty folders and huge files, so you choose what to delete.\n\n## What you can do\n\n- Duplicate search by name, size or content\n- Similar images, videos and tracks even in different formats\n- Empty folders and files, temporary files and broken links\n- List of the biggest files to free space right away\n- Hidden data (EXIF) removal from photos before sharing\n\n## Who it's for\n\nPeople with lots of photos, videos and downloads and an almost-full disk."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "snapback",
+      "nome": "SnapBack",
+      "categoria": "backup-cloud",
+      "prezzo_centesimi": 999,
+      "descrizione": "Backup cifrati e incrementali, ripristino a una data a scelta.",
+      "descrizione_completa": "SnapBack salva copie dei tuoi file a intervalli regolari, cifrate e senza duplicare ciò che non è cambiato, e ti permette di tornare indietro a qualsiasi momento.\n\n## Cosa puoi fare\n\n- Backup incrementali: dopo il primo si salva solo ciò che cambia\n- Cifratura dei dati prima di lasciare il computer\n- Destinazioni a scelta: disco esterno, rete o servizio cloud\n- Istantanee con data, per ripristinare anche un solo file\n- Verifica dell'integrità per essere sicuri che la copia funzioni\n\n## Per chi è\n\nChi vuole un backup affidabile senza complicazioni e a basso costo.",
+      "immagine": "",
+      "icona": "💾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SnapBack",
+          "descrizione": "Encrypted, incremental backups, restore to any date.",
+          "descrizione_completa": "SnapBack saves copies of your files at regular intervals, encrypted and without duplicating what has not changed, and lets you go back to any moment.\n\n## What you can do\n\n- Incremental backups: after the first, only changes are saved\n- Data encrypted before leaving your computer\n- Choose the destination: external drive, network or cloud service\n- Dated snapshots to restore even a single file\n- Integrity check to be sure the copy works\n\n## Who it's for\n\nPeople who want a reliable, low-cost backup without hassle."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
     }
   ]
 }
