@@ -1163,7 +1163,8 @@
         "mac",
         "linux",
         "android"
-      ]
+      ],
+      "link_app": "/app/orefatte/"
     },
     {
       "tipo": "digitale",

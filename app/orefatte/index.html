@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OreFatte - ore per cliente e riepilogo mensile</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#1b1f24;--mu:#667;--ac:#0b6cf0;--bd:#dde1e6}
+@media(prefers-color-scheme:dark){:root{--bg:#14171a;--card:#1d2126;--tx:#e8eaed;--mu:#9aa3ad;--bd:#2d333a}}
+*{box-sizing:border-box}body{margin:0;font:16px/1.45 system-ui,sans-serif;background:var(--bg);color:var(--tx)}
+main{max-width:860px;margin:0 auto;padding:16px}h1{margin:8px 0 2px}p.s{color:var(--mu);margin:0 0 16px}
+section{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:16px;margin-bottom:14px}
+h2{margin:0 0 10px;font-size:18px}.r{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+input,select,button{font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--bd);background:var(--card);color:var(--tx)}
+button{background:var(--ac);color:#fff;border:0;cursor:pointer}button.g{background:transparent;color:var(--ac);border:1px solid var(--ac)}button.x{background:transparent;color:#c33;padding:2px 8px}
+.t{font-size:34px;font-variant-numeric:tabular-nums;font-weight:700}table{width:100%;border-collapse:collapse}
+td,th{text-align:left;padding:6px 4px;border-bottom:1px solid var(--bd)}td.n,th.n{text-align:right}.mu{color:var(--mu)}
+@media print{.np{display:none!important}body{background:#fff;color:#000}section{border:0;padding:0}}
+</style></head><body><main>
+<h1>OreFatte</h1><p class="s">Segna le ore per cliente e prepara il riepilogo da fatturare. I dati restano in questo browser: nessun account.</p>
+<section class="np"><h2>Clienti</h2><div class="r"><input id="cn" placeholder="Nome cliente"><input id="cr" type="number" min="0" step="0.5" placeholder="Tariffa €/ora" style="width:130px"><button id="ca">Aggiungi</button></div><div id="cl" style="margin-top:8px"></div></section>
+<section class="np"><h2>Timer</h2><div class="r"><select id="tc"></select><input id="tp" placeholder="Progetto (facoltativo)"><button id="tb">Avvia</button></div><div class="t" id="td">0h 00m</div></section>
+<section class="np"><h2>Ore dimenticate</h2><div class="r"><select id="mc"></select><input id="mp" placeholder="Progetto"><input id="md" type="date"><input id="mh" type="number" min="0" step="0.25" placeholder="Ore" style="width:90px"><button id="ma" class="g">Aggiungi</button></div></section>
+<section><h2>Riepilogo mensile</h2><div class="r np"><input id="mm" type="month"><button id="ex" class="g">Scarica CSV</button><button id="pr" class="g">Stampa / PDF</button></div><div id="sm" style="margin-top:10px"></div></section>
+<section><h2>Registro del mese</h2><div id="rg"></div></section>
+</main><script>
+const K='orefatte_v1',$=id=>document.getElementById(id);
+let S;try{S=JSON.parse(localStorage.getItem(K))}catch(e){}S=S||{clients:[],entries:[],timer:null};
+const save=()=>{try{localStorage.setItem(K,JSON.stringify(S))}catch(e){}};
+const uid=()=>Math.random().toString(36).slice(2,9);
+const fm=m=>Math.floor(m/60)+'h '+String(Math.round(m%60)).padStart(2,'0')+'m';
+const eur=n=>n.toLocaleString('it-IT',{style:'currency',currency:'EUR'});
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const cl=id=>S.clients.find(c=>c.id===id)||{name:'(eliminato)',rate:0};
+const today=()=>new Date().toISOString().slice(0,10);
+$('mm').value=today().slice(0,7);$('md').value=today();
+function opts(){const o=S.clients.map(c=>'<option value="'+c.id+'">'+esc(c.name)+'</option>').join('');$('tc').innerHTML=o;$('mc').innerHTML=o}
+function month(){return S.entries.filter(e=>e.date.slice(0,7)===$('mm').value).sort((a,b)=>a.date<b.date?1:-1)}
+function draw(){opts();
+ $('cl').innerHTML=S.clients.map(c=>'<div class="r">'+esc(c.name)+' <span class="mu">'+eur(c.rate)+'/ora</span><button class="x" data-c="'+c.id+'">elimina</button></div>').join('')||'<span class="mu">Aggiungi il primo cliente.</span>';
+ const E=month(),by={};E.forEach(e=>{by[e.client]=(by[e.client]||0)+e.min});let tm=0,ta=0;
+ const rows=Object.keys(by).map(k=>{const c=cl(k),a=by[k]/60*c.rate;tm+=by[k];ta+=a;return '<tr><td>'+esc(c.name)+'</td><td class="n">'+fm(by[k])+'</td><td class="n">'+eur(c.rate)+'</td><td class="n">'+eur(a)+'</td></tr>'}).join('');
+ $('sm').innerHTML=rows?'<table><tr><th>Cliente</th><th class="n">Ore</th><th class="n">Tariffa</th><th class="n">Importo</th></tr>'+rows+'<tr><th>Totale</th><th class="n">'+fm(tm)+'</th><th></th><th class="n">'+eur(ta)+'</th></tr></table>':'<span class="mu">Nessuna ora in questo mese.</span>';
+ $('rg').innerHTML=E.length?'<table>'+E.map(e=>'<tr><td>'+e.date+'</td><td>'+esc(cl(e.client).name)+'</td><td>'+esc(e.project||'')+'</td><td class="n">'+fm(e.min)+'</td><td class="np"><button class="x" data-e="'+e.id+'">x</button></td></tr>').join('')+'</table>':'<span class="mu">Vuoto.</span>';
+ $('tb').textContent=S.timer?'Ferma':'Avvia';tick()}
+function tick(){$('td').textContent=S.timer?fm((Date.now()-S.timer.start)/60000):'0h 00m'}
+setInterval(tick,1000);
+$('ca').onclick=()=>{const n=$('cn').value.trim();if(!n)return;S.clients.push({id:uid(),name:n,rate:parseFloat($('cr').value)||0});$('cn').value='';$('cr').value='';save();draw()};
+$('cl').onclick=e=>{const id=e.target.dataset.c;if(id&&confirm('Eliminare il cliente? Le ore registrate restano ma senza tariffa.')){S.clients=S.clients.filter(c=>c.id!==id);save();draw()}};
+$('rg').onclick=e=>{const id=e.target.dataset.e;if(id){S.entries=S.entries.filter(x=>x.id!==id);save();draw()}};
+$('tb').onclick=()=>{if(S.timer){const m=(Date.now()-S.timer.start)/60000;S.entries.push({id:uid(),client:S.timer.client,project:S.timer.project,date:today(),min:m});S.timer=null}else{if(!$('tc').value)return alert('Aggiungi prima un cliente.');S.timer={client:$('tc').value,project:$('tp').value.trim(),start:Date.now()}}save();draw()};
+$('ma').onclick=()=>{const h=parseFloat($('mh').value);if(!$('mc').value||!(h>0)||!$('md').value)return;S.entries.push({id:uid(),client:$('mc').value,project:$('mp').value.trim(),date:$('md').value,min:h*60});$('mh').value='';save();draw()};
+$('mm').onchange=draw;$('pr').onclick=()=>print();
+$('ex').onclick=()=>{const n=x=>String(x).replace('.',',');let s='Cliente;Progetto;Data;Ore;Tariffa;Importo\n';
+ month().forEach(e=>{const c=cl(e.client);s+=[c.name,e.project||'',e.date,n((e.min/60).toFixed(2)),n(c.rate),n((e.min/60*c.rate).toFixed(2))].map(v=>'"'+String(v).replace(/"/g,'""')+'"').join(';')+'\n'});
+ const a=document.createElement('a');a.href=URL.createObjectURL(new Blob(['\ufeff'+s],{type:'text/csv'}));a.download='orefatte-'+$('mm').value+'.csv';a.click()};
+draw();
+</script></body></html>
