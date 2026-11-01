@@ -120,6 +120,46 @@
           "nome": "Development and web"
         }
       }
+    },
+    {
+      "nome": "Salute e fitness",
+      "id": "salute-fitness",
+      "icona": "💪",
+      "tr": {
+        "en": {
+          "nome": "Health and fitness"
+        }
+      }
+    },
+    {
+      "nome": "Casa e famiglia",
+      "id": "casa-famiglia",
+      "icona": "🏠",
+      "tr": {
+        "en": {
+          "nome": "Home and family"
+        }
+      }
+    },
+    {
+      "nome": "Creator e social",
+      "id": "creator-social",
+      "icona": "📣",
+      "tr": {
+        "en": {
+          "nome": "Creators and social"
+        }
+      }
+    },
+    {
+      "nome": "Lavoro e freelance",
+      "id": "lavoro-freelance",
+      "icona": "⏱️",
+      "tr": {
+        "en": {
+          "nome": "Work and freelance"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -937,6 +977,211 @@
           "nome": "SiteSync",
           "descrizione": "Upload your website to the server in one click.",
           "descrizione_completa": "SiteSync compares the site folder on your computer with the one on the server and uploads only changed files, via FTP or SFTP, with a safety copy before overwriting.\n\n## What you can do\n\n- FTP and SFTP connections with profiles for several sites\n- Comparison between local folder and server\n- Upload of changed files only\n- Safety copy before every overwrite\n\n## Who it's for\n\nPeople who manage websites on traditional hosting."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "fitplan",
+      "nome": "FitPlan",
+      "categoria": "salute-fitness",
+      "prezzo_centesimi": 899,
+      "descrizione": "Schede di allenamento e progressi, senza account.",
+      "descrizione_completa": "FitPlan ti fa creare le schede di allenamento, segna carichi e ripetizioni e mostra come migliori nel tempo. I dati restano sul tuo dispositivo.\n\n## Cosa puoi fare\n\n- Schede personalizzabili per palestra e allenamento a casa\n- Timer di recupero tra le serie\n- Grafici di peso corporeo e carichi\n- Archivio sul tuo dispositivo, nessun account\n\n## Per chi è\n\nChi si allena e vuole tenere traccia dei progressi. Non sostituisce un allenatore né il parere del medico.",
+      "immagine": "",
+      "icona": "💪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "FitPlan",
+          "descrizione": "Workout plans and progress, no account needed.",
+          "descrizione_completa": "FitPlan lets you build workout plans, log weights and reps and see how you improve over time. Your data stays on your device.\n\n## What you can do\n\n- Customizable plans for gym and home workouts\n- Rest timer between sets\n- Charts for body weight and loads\n- Archive on your device, no account\n\n## Who it's for\n\nAnyone who trains and wants to track progress. It does not replace a trainer or medical advice."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "sonnolog",
+      "nome": "SonnoLog",
+      "categoria": "salute-fitness",
+      "prezzo_centesimi": 599,
+      "descrizione": "Un diario per capire come dormi e cosa cambia il tuo riposo.",
+      "descrizione_completa": "SonnoLog ti fa annotare orari e qualità del sonno e le abitudini della sera, e ti mostra i collegamenti tra le due cose.\n\n## Cosa puoi fare\n\n- Diario di orari di sonno e risveglio\n- Annotazioni su caffè, schermi, sport e cena\n- Grafici settimanali e mensili\n- Promemoria per l'ora di andare a letto\n\n## Per chi è\n\nChi vuole migliorare le proprie abitudini di sonno. Non è uno strumento medico.",
+      "immagine": "",
+      "icona": "😴",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SonnoLog",
+          "descrizione": "A diary to understand how you sleep and what changes your rest.",
+          "descrizione_completa": "SonnoLog lets you note sleep times and quality and your evening habits, and shows the links between the two.\n\n## What you can do\n\n- Diary of sleep and wake-up times\n- Notes on coffee, screens, sport and dinner\n- Weekly and monthly charts\n- Bedtime reminder\n\n## Who it's for\n\nAnyone who wants to improve their sleep habits. It is not a medical tool."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "menusettimana",
+      "nome": "MenuSettimana",
+      "categoria": "casa-famiglia",
+      "prezzo_centesimi": 799,
+      "descrizione": "Pianifica i pasti della settimana e genera la lista della spesa.",
+      "descrizione_completa": "MenuSettimana ti fa scegliere i pasti per ogni giorno e prepara da sola la lista della spesa, così sprechi meno e non ti chiedi più cosa cucinare.\n\n## Cosa puoi fare\n\n- Calendario dei pasti della settimana\n- Ricette tue con ingredienti e porzioni\n- Lista della spesa generata e condivisibile\n- Calcolo delle quantità per più persone\n\n## Per chi è\n\nFamiglie e coppie che vogliono organizzare i pasti e risparmiare.",
+      "immagine": "",
+      "icona": "🍝",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "MenuSettimana",
+          "descrizione": "Plan the week's meals and generate the shopping list.",
+          "descrizione_completa": "MenuSettimana lets you choose the meals for each day and prepares the shopping list on its own, so you waste less and never wonder what to cook.\n\n## What you can do\n\n- Weekly meal calendar\n- Your own recipes with ingredients and portions\n- Generated and shareable shopping list\n- Quantities scaled for more people\n\n## Who it's for\n\nFamilies and couples who want to organize meals and save money."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "casainventario",
+      "nome": "CasaInventario",
+      "categoria": "casa-famiglia",
+      "prezzo_centesimi": 699,
+      "descrizione": "Garanzie, scontrini e scadenze di casa in un posto solo.",
+      "descrizione_completa": "CasaInventario raccoglie gli oggetti di casa con foto, scontrino e garanzia, e ti avvisa prima che scada una garanzia, un'assicurazione o un abbonamento.\n\n## Cosa puoi fare\n\n- Elenco di elettrodomestici e oggetti con foto e scontrino\n- Avvisi di scadenza per garanzie e abbonamenti\n- Ricerca veloce per stanza o categoria\n- Esportazione dell'elenco per l'assicurazione\n\n## Per chi è\n\nChi vuole ritrovare subito un documento e non perdere una garanzia.",
+      "immagine": "",
+      "icona": "🧰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CasaInventario",
+          "descrizione": "Warranties, receipts and deadlines for your home in one place.",
+          "descrizione_completa": "CasaInventario gathers your household items with photo, receipt and warranty, and warns you before a warranty, insurance or subscription expires.\n\n## What you can do\n\n- List of appliances and items with photo and receipt\n- Expiry alerts for warranties and subscriptions\n- Fast search by room or category\n- Export the list for your insurer\n\n## Who it's for\n\nAnyone who wants to find a document at once and never lose a warranty."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "postplan",
+      "nome": "PostPlan",
+      "categoria": "creator-social",
+      "prezzo_centesimi": 1999,
+      "descrizione": "Calendario editoriale e programmazione dei post.",
+      "descrizione_completa": "PostPlan ti fa pianificare i contenuti di più profili in un calendario unico, preparare testi e immagini in anticipo e vedere cosa pubblicare ogni giorno.\n\n## Cosa puoi fare\n\n- Calendario editoriale per più profili e progetti\n- Bozze con testi, immagini e hashtag salvati\n- Modelli di post riutilizzabili\n- Esportazione del piano per clienti e collaboratori\n\n## Per chi è\n\nCreator, negozi e social media manager che pubblicano ogni giorno.",
+      "immagine": "",
+      "icona": "📅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "PostPlan",
+          "descrizione": "Editorial calendar and post scheduling.",
+          "descrizione_completa": "PostPlan lets you plan content for several profiles in a single calendar, prepare texts and images in advance and see what to publish each day.\n\n## What you can do\n\n- Editorial calendar for several profiles and projects\n- Drafts with saved texts, images and hashtags\n- Reusable post templates\n- Export the plan for clients and collaborators\n\n## Who it's for\n\nCreators, shops and social media managers who publish every day."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "sottotitoli",
+      "nome": "SottoTitoli",
+      "categoria": "creator-social",
+      "prezzo_centesimi": 1499,
+      "descrizione": "Sottotitoli automatici dai tuoi video, sul tuo computer.",
+      "descrizione_completa": "SottoTitoli ascolta l'audio dei tuoi video e scrive i sottotitoli con i tempi giusti, che puoi correggere e salvare. Funziona offline con modelli locali.\n\n## Cosa puoi fare\n\n- Trascrizione automatica in italiano, inglese e altre lingue\n- Editor con tempi per correggere ogni frase\n- Esportazione in SRT e VTT\n- Elaborazione offline: i video non escono dal computer\n\n## Per chi è\n\nCreator e aziende che vogliono sottotitolare i video. Rileggi sempre il testo: la trascrizione automatica può sbagliare.",
+      "immagine": "",
+      "icona": "💬",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SottoTitoli",
+          "descrizione": "Automatic subtitles from your videos, on your computer.",
+          "descrizione_completa": "SottoTitoli listens to your videos' audio and writes subtitles with the right timing, which you can correct and save. It works offline with local models.\n\n## What you can do\n\n- Automatic transcription in Italian, English and other languages\n- Timed editor to correct every sentence\n- Export to SRT and VTT\n- Offline processing: videos never leave your computer\n\n## Who it's for\n\nCreators and businesses who want to subtitle videos. Always proofread: automatic transcription can make mistakes."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "orefatte",
+      "nome": "OreFatte",
+      "categoria": "lavoro-freelance",
+      "prezzo_centesimi": 1499,
+      "descrizione": "Segna le ore per cliente e prepara il riepilogo da fatturare.",
+      "descrizione_completa": "OreFatte ti fa avviare un timer per ogni cliente e progetto e a fine mese prepara il riepilogo delle ore, pronto da inviare o da usare per la fattura.\n\n## Cosa puoi fare\n\n- Timer per cliente e progetto con un clic\n- Tariffe orarie diverse per ogni cliente\n- Riepilogo mensile in PDF e foglio di calcolo\n- Inserimento manuale delle ore dimenticate\n\n## Per chi è\n\nFreelance e consulenti che fatturano a ore.",
+      "immagine": "",
+      "icona": "⏱️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "OreFatte",
+          "descrizione": "Track hours per client and prepare the summary to invoice.",
+          "descrizione_completa": "OreFatte lets you start a timer for each client and project and, at month end, prepares the hours summary, ready to send or use for the invoice.\n\n## What you can do\n\n- Timer for each client and project in one click\n- Different hourly rates for each client\n- Monthly summary as PDF and spreadsheet\n- Manual entry for forgotten hours\n\n## Who it's for\n\nFreelancers and consultants who bill by the hour."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "clientflow",
+      "nome": "ClientFlow",
+      "categoria": "lavoro-freelance",
+      "prezzo_centesimi": 2499,
+      "descrizione": "Un piccolo CRM per non perdere nessun cliente.",
+      "descrizione_completa": "ClientFlow raccoglie contatti, trattative e promemoria in una vista a colonne, così sai sempre chi richiamare e a che punto è ogni preventivo.\n\n## Cosa puoi fare\n\n- Schede cliente con contatti, note e storico\n- Trattative in colonne da trascinare\n- Promemoria per i richiami\n- Importazione ed esportazione dei contatti in CSV\n\n## Per chi è\n\nPiccole attività e professionisti che oggi tengono i clienti su fogli e agende.",
+      "immagine": "",
+      "icona": "🤝",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ClientFlow",
+          "descrizione": "A small CRM so you never lose a client.",
+          "descrizione_completa": "ClientFlow gathers contacts, deals and reminders in a column view, so you always know who to call back and where each quote stands.\n\n## What you can do\n\n- Client cards with contacts, notes and history\n- Deals in draggable columns\n- Follow-up reminders\n- Import and export contacts as CSV\n\n## Who it's for\n\nSmall businesses and professionals who now keep clients on sheets and diaries."
         }
       },
       "piattaforme": [

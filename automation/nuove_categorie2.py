@@ -1,5 +1,4 @@
-import io
-# Secondo giro categorie + app (riusa la generazione di nuove_categorie.py, idempotente)
+import io, json# Secondo giro categorie + app (riusa la generazione di nuove_categorie.py, idempotente)
 src = io.open('automation/nuove_categorie.py', encoding='utf-8').read()
 PC = ["windows","mac","linux"]
 C = [
