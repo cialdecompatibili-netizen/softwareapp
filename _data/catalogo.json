@@ -80,6 +80,46 @@
           "nome": "Backup and cloud"
         }
       }
+    },
+    {
+      "nome": "Fatture e business",
+      "id": "fatture-business",
+      "icona": "🧾",
+      "tr": {
+        "en": {
+          "nome": "Invoicing and business"
+        }
+      }
+    },
+    {
+      "nome": "Budget e finanza",
+      "id": "finanza-personale",
+      "icona": "💶",
+      "tr": {
+        "en": {
+          "nome": "Budget and finance"
+        }
+      }
+    },
+    {
+      "nome": "Scuola e studio",
+      "id": "scuola-studio",
+      "icona": "🎓",
+      "tr": {
+        "en": {
+          "nome": "School and study"
+        }
+      }
+    },
+    {
+      "nome": "Sviluppo e web",
+      "id": "sviluppo-web",
+      "icona": "💻",
+      "tr": {
+        "en": {
+          "nome": "Development and web"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -695,6 +735,208 @@
           "nome": "SnapBack",
           "descrizione": "Encrypted, incremental backups, restore to any date.",
           "descrizione_completa": "SnapBack saves copies of your files at regular intervals, encrypted and without duplicating what has not changed, and lets you go back to any moment.\n\n## What you can do\n\n- Incremental backups: after the first, only changes are saved\n- Data encrypted before leaving your computer\n- Choose the destination: external drive, network or cloud service\n- Dated snapshots to restore even a single file\n- Integrity check to be sure the copy works\n\n## Who it's for\n\nPeople who want a reliable, low-cost backup without hassle."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "fatturapida",
+      "nome": "FattuRapida",
+      "categoria": "fatture-business",
+      "prezzo_centesimi": 3999,
+      "descrizione": "Crea fatture e preventivi in pochi clic, con anagrafica clienti.",
+      "descrizione_completa": "FattuRapida ti fa preparare fatture, preventivi e note di credito da modelli pronti, tenendo clienti e prodotti in un'unica anagrafica. I dati restano sul tuo computer.\n\n## Cosa puoi fare\n\n- Fatture, preventivi e note di credito da modelli personalizzabili\n- Anagrafica clienti e prodotti con ricerca veloce\n- Numerazione automatica e promemoria dei pagamenti scaduti\n- Esportazione in PDF e in XML da consegnare al tuo intermediario\n- Archivio sul tuo computer: nessun cloud obbligatorio\n\n## Per chi è\n\nProfessionisti e piccole attività che vogliono emettere documenti senza un gestionale complicato. Gli obblighi fiscali restano a tuo carico: verifica con il tuo commercialista.",
+      "immagine": "",
+      "icona": "🧾",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "FattuRapida",
+          "descrizione": "Create invoices and quotes in a few clicks, with a client database.",
+          "descrizione_completa": "FattuRapida lets you prepare invoices, quotes and credit notes from ready templates, keeping clients and products in a single database. Your data stays on your computer.\n\n## What you can do\n\n- Invoices, quotes and credit notes from customizable templates\n- Client and product database with fast search\n- Automatic numbering and reminders for overdue payments\n- Export to PDF and XML to hand to your intermediary\n- Archive on your computer: no cloud required\n\n## Who it's for\n\nFreelancers and small businesses who want to issue documents without a complicated management system. Tax obligations remain yours: check with your accountant."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "stockbox",
+      "nome": "StockBox",
+      "categoria": "fatture-business",
+      "prezzo_centesimi": 2999,
+      "descrizione": "Tieni sotto controllo magazzino, scorte e fornitori.",
+      "descrizione_completa": "StockBox registra carichi e scarichi, ti avvisa quando un prodotto sta finendo e ti mostra a colpo d'occhio cosa riordinare e da chi.\n\n## Cosa puoi fare\n\n- Giacenze con soglia minima e avvisi di riordino\n- Carichi e scarichi anche con lettore di codici a barre\n- Inventario con esportazione in foglio di calcolo\n- Storico dei movimenti per ogni prodotto\n- Elenco fornitori con prezzi e tempi di consegna\n\n## Per chi è\n\nNegozi, artigiani e piccoli e-commerce con un magazzino da tenere in ordine.",
+      "immagine": "",
+      "icona": "📦",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "StockBox",
+          "descrizione": "Keep stock, supplies and suppliers under control.",
+          "descrizione_completa": "StockBox records stock in and out, warns you when a product is running low and shows at a glance what to reorder and from whom.\n\n## What you can do\n\n- Stock levels with minimum threshold and reorder alerts\n- Stock in and out, also with a barcode reader\n- Inventory with spreadsheet export\n- Movement history for every product\n- Supplier list with prices and delivery times\n\n## Who it's for\n\nShops, craftspeople and small online stores with a warehouse to keep in order."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "budgetcasa",
+      "nome": "BudgetCasa",
+      "categoria": "finanza-personale",
+      "prezzo_centesimi": 999,
+      "descrizione": "Tieni sotto controllo entrate, spese e risparmi di casa.",
+      "descrizione_completa": "BudgetCasa ti mostra dove vanno i soldi ogni mese: importi le spese, le assegni a una categoria e vedi subito quanto ti resta. Nessun collegamento alla banca, i dati restano sul tuo computer.\n\n## Cosa puoi fare\n\n- Categorie di spesa con regole automatiche\n- Budget mensili con avviso quando stai per superarli\n- Obiettivi di risparmio con barra di avanzamento\n- Grafici per mese e per categoria\n- Importazione dei movimenti da file CSV della banca\n\n## Per chi è\n\nFamiglie e single che vogliono capire e ridurre le spese senza fogli di calcolo.",
+      "immagine": "",
+      "icona": "💶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "BudgetCasa",
+          "descrizione": "Keep income, spending and savings at home under control.",
+          "descrizione_completa": "BudgetCasa shows where the money goes each month: import your expenses, assign a category and see at once what is left. No bank connection, your data stays on your computer.\n\n## What you can do\n\n- Spending categories with automatic rules\n- Monthly budgets with an alert before you exceed them\n- Savings goals with a progress bar\n- Charts by month and by category\n- Import transactions from your bank's CSV file\n\n## Who it's for\n\nFamilies and singles who want to understand and cut spending without spreadsheets."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "speseinsieme",
+      "nome": "SpeseInsieme",
+      "categoria": "finanza-personale",
+      "prezzo_centesimi": 799,
+      "descrizione": "Dividi le spese con coinquilini, famiglia e amici.",
+      "descrizione_completa": "SpeseInsieme tiene il conto di chi ha pagato cosa e calcola chi deve quanto a chi, con il minor numero possibile di pagamenti.\n\n## Cosa puoi fare\n\n- Gruppi per casa, viaggio o evento\n- Divisione in parti uguali o personalizzata\n- Saldo semplificato: chi deve dare e a chi\n- Spese in valute diverse per i viaggi\n- Esportazione del riepilogo da condividere\n\n## Per chi è\n\nCoinquilini, coppie, famiglie e gruppi di amici in vacanza.",
+      "immagine": "",
+      "icona": "🤝",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SpeseInsieme",
+          "descrizione": "Split expenses with flatmates, family and friends.",
+          "descrizione_completa": "SpeseInsieme keeps track of who paid what and works out who owes whom, with the fewest possible payments.\n\n## What you can do\n\n- Groups for a home, a trip or an event\n- Equal or custom split\n- Simplified balance: who pays whom\n- Expenses in different currencies for trips\n- Export the summary to share\n\n## Who it's for\n\nFlatmates, couples, families and groups of friends on holiday."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "studydeck",
+      "nome": "StudyDeck",
+      "categoria": "scuola-studio",
+      "prezzo_centesimi": 899,
+      "descrizione": "Flashcard con ripasso a intervalli per ricordare di più.",
+      "descrizione_completa": "StudyDeck ti ripropone ogni scheda al momento giusto, appena prima di dimenticarla, così studi meno tempo e ricordi più a lungo.\n\n## Cosa puoi fare\n\n- Ripasso a intervalli che si adatta alle tue risposte\n- Mazzi con immagini, formule e audio\n- Importazione di schede da file CSV\n- Statistiche di studio e serie di giorni consecutivi\n\n## Per chi è\n\nStudenti di scuola e università e chi prepara concorsi ed esami.",
+      "immagine": "",
+      "icona": "🎓",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "StudyDeck",
+          "descrizione": "Flashcards with spaced repetition to remember more.",
+          "descrizione_completa": "StudyDeck shows each card again at the right moment, just before you forget it, so you study less and remember longer.\n\n## What you can do\n\n- Spaced repetition that adapts to your answers\n- Decks with images, formulas and audio\n- Import cards from CSV files\n- Study statistics and daily streaks\n\n## Who it's for\n\nSchool and university students and anyone preparing for exams."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "dispensa-ai",
+      "nome": "DispensaAI",
+      "categoria": "scuola-studio",
+      "prezzo_centesimi": 1299,
+      "descrizione": "Trasforma appunti e dispense in riassunti e schemi.",
+      "descrizione_completa": "DispensaAI legge PDF e testi e prepara un riassunto a punti, uno schema e domande di ripasso. Funziona sul tuo computer con modelli locali, quindi serve un PC abbastanza potente.\n\n## Cosa puoi fare\n\n- Riassunto di PDF, slide e appunti\n- Schemi a punti e mappe dei concetti\n- Domande di ripasso generate dal testo\n- Elaborazione offline: i tuoi file non escono dal computer\n\n## Per chi è\n\nStudenti e ricercatori con molto materiale da leggere. Controlla sempre il risultato: un riassunto automatico può contenere errori.",
+      "immagine": "",
+      "icona": "📝",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "DispensaAI",
+          "descrizione": "Turn notes and handouts into summaries and outlines.",
+          "descrizione_completa": "DispensaAI reads PDFs and texts and prepares a bullet summary, an outline and review questions. It runs on your computer with local models, so a reasonably powerful PC is needed.\n\n## What you can do\n\n- Summaries of PDFs, slides and notes\n- Bullet outlines and concept maps\n- Review questions generated from the text\n- Offline processing: your files never leave your computer\n\n## Who it's for\n\nStudents and researchers with a lot of material to read. Always check the result: an automatic summary can contain mistakes."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "apilab",
+      "nome": "ApiLab",
+      "categoria": "sviluppo-web",
+      "prezzo_centesimi": 1999,
+      "descrizione": "Prova e documenta le API senza scrivere codice.",
+      "descrizione_completa": "ApiLab ti fa inviare richieste a qualsiasi servizio web, controllare le risposte e salvare tutto in collezioni da riusare e condividere con il team.\n\n## Cosa puoi fare\n\n- Richieste REST con cronologia e collezioni\n- Variabili di ambiente per test, sviluppo e produzione\n- Controlli automatici sulle risposte\n- Esportazione della documentazione in HTML e Markdown\n\n## Per chi è\n\nSviluppatori e tester che lavorano con servizi web.",
+      "immagine": "",
+      "icona": "🧪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ApiLab",
+          "descrizione": "Test and document APIs without writing code.",
+          "descrizione_completa": "ApiLab lets you send requests to any web service, check the responses and save everything in collections to reuse and share with your team.\n\n## What you can do\n\n- REST requests with history and collections\n- Environment variables for test, development and production\n- Automatic checks on responses\n- Export documentation to HTML and Markdown\n\n## Who it's for\n\nDevelopers and testers who work with web services."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "sitesync",
+      "nome": "SiteSync",
+      "categoria": "sviluppo-web",
+      "prezzo_centesimi": 1499,
+      "descrizione": "Carica il tuo sito sul server con un clic.",
+      "descrizione_completa": "SiteSync confronta la cartella del sito sul tuo computer con quella sul server e carica solo i file cambiati, via FTP o SFTP, con una copia di sicurezza prima di sovrascrivere.\n\n## Cosa puoi fare\n\n- Collegamenti FTP e SFTP con profili per più siti\n- Confronto tra cartella locale e server\n- Caricamento dei soli file modificati\n- Copia di sicurezza prima di ogni sovrascrittura\n\n## Per chi è\n\nChi gestisce siti web su hosting tradizionale.",
+      "immagine": "",
+      "icona": "🔄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SiteSync",
+          "descrizione": "Upload your website to the server in one click.",
+          "descrizione_completa": "SiteSync compares the site folder on your computer with the one on the server and uploads only changed files, via FTP or SFTP, with a safety copy before overwriting.\n\n## What you can do\n\n- FTP and SFTP connections with profiles for several sites\n- Comparison between local folder and server\n- Upload of changed files only\n- Safety copy before every overwrite\n\n## Who it's for\n\nPeople who manage websites on traditional hosting."
         }
       },
       "piattaforme": [
