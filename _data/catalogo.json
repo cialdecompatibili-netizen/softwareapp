@@ -160,6 +160,26 @@
           "nome": "Work and freelance"
         }
       }
+    },
+    {
+      "nome": "Utility per il PC",
+      "id": "utility-pc",
+      "icona": "🛠️",
+      "tr": {
+        "en": {
+          "nome": "PC utilities"
+        }
+      }
+    },
+    {
+      "nome": "Lettura e web",
+      "id": "lettura-web",
+      "icona": "📚",
+      "tr": {
+        "en": {
+          "nome": "Reading and web"
+        }
+      }
     }
   ],
   "prodotti": [
@@ -1189,6 +1209,260 @@
         "windows",
         "mac",
         "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "leggitesto",
+      "nome": "LeggiTesto",
+      "categoria": "utility-pdf",
+      "prezzo_centesimi": 1099,
+      "descrizione": "Estrai il testo da foto, scansioni e PDF.",
+      "descrizione_completa": "LeggiTesto riconosce il testo in foto, scansioni e PDF non selezionabili e lo restituisce modificabile, anche in più lingue, direttamente sul tuo computer.\n\n## Cosa puoi fare\n\n- Riconoscimento del testo in italiano, inglese e altre lingue\n- Elaborazione di intere cartelle di scansioni\n- PDF ricercabile in uscita, oltre a testo semplice\n- Funziona offline: i documenti non escono dal computer\n\n## Per chi è\n\nUffici, studenti e chi ha archivi di carta da digitalizzare. Controlla sempre il testo: il riconoscimento può sbagliare.",
+      "immagine": "",
+      "icona": "🔎",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "LeggiTesto",
+          "descrizione": "Extract text from photos, scans and PDFs.",
+          "descrizione_completa": "LeggiTesto recognizes text in photos, scans and non-selectable PDFs and gives it back editable, in several languages, right on your computer.\n\n## What you can do\n\n- Text recognition in Italian, English and other languages\n- Whole folders of scans processed at once\n- Searchable PDF output, besides plain text\n- Works offline: documents never leave your computer\n\n## Who it's for\n\nOffices, students and anyone with paper archives to digitize. Always check the text: recognition can make mistakes."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "scaricatutto",
+      "nome": "ScaricaTutto",
+      "categoria": "utility-pc",
+      "prezzo_centesimi": 699,
+      "descrizione": "Scarica file grandi più veloci, con pausa e ripresa.",
+      "descrizione_completa": "ScaricaTutto gestisce i tuoi download in una coda ordinata, li divide in più parti per andare più veloce e li riprende se la connessione cade.\n\n## Cosa puoi fare\n\n- Coda con priorità e pianificazione degli orari\n- Download in più parti per sfruttare tutta la banda\n- Pausa e ripresa anche dopo un riavvio\n- Limite di velocità per non bloccare la rete\n\n## Per chi è\n\nChi scarica spesso file grandi o ha una connessione instabile.",
+      "immagine": "",
+      "icona": "⬇️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "ScaricaTutto",
+          "descrizione": "Download big files faster, with pause and resume.",
+          "descrizione_completa": "ScaricaTutto manages your downloads in an orderly queue, splits them into several parts to go faster and resumes them if the connection drops.\n\n## What you can do\n\n- Queue with priorities and scheduled times\n- Multi-part downloads to use all your bandwidth\n- Pause and resume, even after a restart\n- Speed limit so you don't clog the network\n\n## Who it's for\n\nAnyone who often downloads big files or has an unstable connection."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "dbpeek",
+      "nome": "DbPeek",
+      "categoria": "sviluppo-web",
+      "prezzo_centesimi": 2499,
+      "descrizione": "Sfoglia e modifica i tuoi database con un'unica app.",
+      "descrizione_completa": "DbPeek si collega ai database più comuni e ti fa guardare tabelle, scrivere query e modificare i dati senza imparare un programma diverso per ognuno.\n\n## Cosa puoi fare\n\n- Connessioni a database SQL comuni, salvate in profili\n- Editor di query con risultati in tabella\n- Modifica diretta dei dati con anteprima\n- Esportazione dei risultati in CSV\n\n## Per chi è\n\nSviluppatori e analisti che lavorano con più database. Fai sempre una copia prima di modificare dati reali.",
+      "immagine": "",
+      "icona": "🗄️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "DbPeek",
+          "descrizione": "Browse and edit your databases with a single app.",
+          "descrizione_completa": "DbPeek connects to the most common databases and lets you look at tables, write queries and edit data without learning a different program for each one.\n\n## What you can do\n\n- Connections to common SQL databases, saved as profiles\n- Query editor with table results\n- Direct data editing with preview\n- Export results to CSV\n\n## Who it's for\n\nDevelopers and analysts who work with several databases. Always make a copy before editing real data."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "schemadraw",
+      "nome": "SchemaDraw",
+      "categoria": "sviluppo-web",
+      "prezzo_centesimi": 1499,
+      "descrizione": "Disegna lo schema del database e ottieni il codice.",
+      "descrizione_completa": "SchemaDraw ti fa disegnare tabelle e relazioni trascinandole sullo schermo e genera il codice SQL, così il progetto del database si capisce a colpo d'occhio.\n\n## Cosa puoi fare\n\n- Tabelle e relazioni da trascinare su una tela\n- Generazione del codice SQL dallo schema\n- Importazione di uno schema esistente\n- Esportazione dell'immagine per la documentazione\n\n## Per chi è\n\nSviluppatori e studenti che progettano database.",
+      "immagine": "",
+      "icona": "🧩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SchemaDraw",
+          "descrizione": "Draw the database schema and get the code.",
+          "descrizione_completa": "SchemaDraw lets you draw tables and relations by dragging them on screen and generates the SQL code, so the database design is clear at a glance.\n\n## What you can do\n\n- Tables and relations to drag onto a canvas\n- SQL code generated from the schema\n- Import an existing schema\n- Export the image for documentation\n\n## Who it's for\n\nDevelopers and students who design databases."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "feedbox",
+      "nome": "FeedBox",
+      "categoria": "lettura-web",
+      "prezzo_centesimi": 699,
+      "descrizione": "Tutti i tuoi siti preferiti in un unico posto, senza pubblicità.",
+      "descrizione_completa": "FeedBox raccoglie gli articoli dei siti, blog e canali che segui in un elenco ordinato, senza algoritmi e senza pubblicità.\n\n## Cosa puoi fare\n\n- Iscrizione ai siti con il loro indirizzo\n- Cartelle e etichette per ordinare le fonti\n- Lettura offline degli articoli salvati\n- Importazione ed esportazione dell'elenco dei siti\n\n## Per chi è\n\nChi vuole seguire notizie e blog senza i social.",
+      "immagine": "",
+      "icona": "📰",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "FeedBox",
+          "descrizione": "All your favorite sites in one place, ad-free.",
+          "descrizione_completa": "FeedBox gathers articles from the sites, blogs and channels you follow in one tidy list, with no algorithms and no ads.\n\n## What you can do\n\n- Subscribe to sites using their address\n- Folders and labels to sort sources\n- Offline reading of saved articles\n- Import and export your list of sites\n\n## Who it's for\n\nAnyone who wants to follow news and blogs without social networks."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "libroshelf",
+      "nome": "LibroShelf",
+      "categoria": "lettura-web",
+      "prezzo_centesimi": 799,
+      "descrizione": "La tua libreria di ebook, con lettura comoda.",
+      "descrizione_completa": "LibroShelf organizza i tuoi ebook in una libreria e li legge con carattere, margini e colori a scelta, ricordando sempre dove eri arrivato. Apre solo file senza protezioni.\n\n## Cosa puoi fare\n\n- Lettura di EPUB e PDF senza protezioni\n- Carattere, margini e tema chiaro o scuro\n- Segnalibri, evidenziazioni e note\n- Libreria con ricerca per titolo e autore\n\n## Per chi è\n\nChi legge molto su schermo e vuole la propria raccolta in ordine.",
+      "immagine": "",
+      "icona": "📖",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "LibroShelf",
+          "descrizione": "Your ebook library, with comfortable reading.",
+          "descrizione_completa": "LibroShelf organizes your ebooks in a library and reads them with the font, margins and colors you choose, always remembering where you left off. It opens only DRM-free files.\n\n## What you can do\n\n- Reads DRM-free EPUB and PDF\n- Font, margins and light or dark theme\n- Bookmarks, highlights and notes\n- Library with search by title and author\n\n## Who it's for\n\nHeavy screen readers who want their collection in order."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "copiastorico",
+      "nome": "CopiaStorico",
+      "categoria": "utility-pc",
+      "prezzo_centesimi": 599,
+      "descrizione": "Ritrova tutto ciò che hai copiato, anche ore fa.",
+      "descrizione_completa": "CopiaStorico ricorda testi, link e immagini che copi e te li ripropone con una scorciatoia da tastiera, così non perdi più niente quando copi qualcosa di nuovo.\n\n## Cosa puoi fare\n\n- Cronologia di testi, link e immagini copiati\n- Ricerca veloce nella cronologia\n- Elementi fissati sempre a portata di mano\n- Esclusione delle app sensibili, per esempio i gestori di password\n\n## Per chi è\n\nChi copia e incolla tutto il giorno, per lavoro o per studio.",
+      "immagine": "",
+      "icona": "📋",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "CopiaStorico",
+          "descrizione": "Find everything you copied, even hours ago.",
+          "descrizione_completa": "CopiaStorico remembers texts, links and images you copy and brings them back with a keyboard shortcut, so you never lose anything when you copy something new.\n\n## What you can do\n\n- History of copied texts, links and images\n- Fast search in the history\n- Pinned items always at hand\n- Exclusion of sensitive apps, such as password managers\n\n## Who it's for\n\nAnyone who copies and pastes all day, for work or study."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "linkvault",
+      "nome": "LinkVault",
+      "categoria": "lettura-web",
+      "prezzo_centesimi": 799,
+      "descrizione": "Salva link e articoli e ritrovali quando servono.",
+      "descrizione_completa": "LinkVault salva i siti che vuoi rileggere, con etichette e una copia leggibile anche quando la pagina sparisce.\n\n## Cosa puoi fare\n\n- Salvataggio con un clic e etichette\n- Copia dell'articolo leggibile anche offline\n- Ricerca nel testo di tutto ciò che hai salvato\n- Importazione dei segnalibri del browser\n\n## Per chi è\n\nRicercatori, studenti e curiosi con troppe schede aperte.",
+      "immagine": "",
+      "icona": "🔖",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "LinkVault",
+          "descrizione": "Save links and articles and find them when you need them.",
+          "descrizione_completa": "LinkVault saves the sites you want to reread, with labels and a readable copy even when the page disappears.\n\n## What you can do\n\n- One-click saving and labels\n- Readable copy of the article, also offline\n- Full-text search of everything you saved\n- Import browser bookmarks\n\n## Who it's for\n\nResearchers, students and curious people with too many open tabs."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "testorapido",
+      "nome": "TestoRapido",
+      "categoria": "utility-pc",
+      "prezzo_centesimi": 699,
+      "descrizione": "Scrivi frasi intere con poche lettere.",
+      "descrizione_completa": "TestoRapido sostituisce una sigla con la frase completa mentre scrivi: indirizzo, risposte tipo, firma, codici. Meno battute, meno errori.\n\n## Cosa puoi fare\n\n- Sigle che diventano frasi, in qualsiasi programma\n- Campi variabili come data e nome\n- Raccolte di testi per lavoro e vita privata\n- Importazione ed esportazione delle tue scorciatoie\n\n## Per chi è\n\nAssistenza clienti, segreterie e chiunque ripete le stesse frasi.",
+      "immagine": "",
+      "icona": "⌨️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "TestoRapido",
+          "descrizione": "Type whole phrases with a few letters.",
+          "descrizione_completa": "TestoRapido replaces a short code with the full phrase while you type: address, standard replies, signature, codes. Fewer keystrokes, fewer mistakes.\n\n## What you can do\n\n- Short codes that become phrases, in any program\n- Variable fields such as date and name\n- Text collections for work and private life\n- Import and export your shortcuts\n\n## Who it's for\n\nCustomer support, offices and anyone who repeats the same phrases."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "tipo": "digitale",
+      "app": true,
+      "id": "abitudiniok",
+      "nome": "AbitudiniOK",
+      "categoria": "salute-fitness",
+      "prezzo_centesimi": 599,
+      "descrizione": "Costruisci un'abitudine al giorno, senza pressione.",
+      "descrizione_completa": "AbitudiniOK ti fa segnare ogni giorno le abitudini che vuoi costruire e ti mostra la serie di giorni consecutivi, con promemoria gentili e senza punteggi complicati.\n\n## Cosa puoi fare\n\n- Abitudini giornaliere o a giorni scelti\n- Serie di giorni consecutivi e calendario dei successi\n- Promemoria a orari a scelta\n- Dati sul tuo dispositivo, nessun account\n\n## Per chi è\n\nChi vuole costruire una routine: studio, sport, lettura.",
+      "immagine": "",
+      "icona": "✅",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "AbitudiniOK",
+          "descrizione": "Build one habit a day, with no pressure.",
+          "descrizione_completa": "AbitudiniOK lets you mark the habits you want to build each day and shows your streak, with gentle reminders and no complicated scores.\n\n## What you can do\n\n- Daily habits or chosen weekdays\n- Streaks and a calendar of successes\n- Reminders at times you choose\n- Data on your device, no account\n\n## Who it's for\n\nAnyone building a routine: study, sport, reading."
+        }
+      },
+      "piattaforme": [
+        "windows",
+        "mac",
+        "linux",
+        "android"
       ]
     }
   ]
